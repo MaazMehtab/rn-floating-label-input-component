@@ -1,0 +1,22 @@
+{
+  "name": "rn-floating-label-input-component",
+  "version": "0.0.1",
+  "description": "a simple react native floating-label-input-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaazMehtab/rn-floating-label-input-component.git"
+  },
+  "keywords": [
+    "rn-floating-label-input-component"
+  ],
+  "author": "Maaz Mehtab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaazMehtab/rn-floating-label-input-component/issues"
+  },
+  "homepage": "https://github.com/MaazMehtab/rn-floating-label-input-component#readme"
+}
